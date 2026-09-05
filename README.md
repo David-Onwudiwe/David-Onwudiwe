@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### **Data Analyst |** Turning raw data into decisions
 
-I am a detail-oriented **Data Analyst** with a strong foundational background in Electrical and Electronics Engineering. I specialize in transforming raw, complex datasets into clear, actionable business insights that drive strategic decision-making. Currently, I am expanding my technical capabilities by deepening my knowledge of Python for advanced data manipulation, automation, and analytics.
+I am a Data Analyst with an interest in transforming data into clear, practical insights that support better decision-making. My work focuses on data analysis, visualization, business intelligence, SQL, and Excel. I am currently developing my Python skills while building toward opportunities in data analytics, business intelligence, data science, and data engineering.
 
 ### 🔭 What I Do
 
