@@ -22,7 +22,7 @@ I am a Data Analyst with an interest in transforming data into clear, practical 
 
 ### 🔭 What I Do
 
-* - Analyze data to identify trends, patterns, and useful insights
+- Analyze data to identify trends, patterns, and useful insights
 - Clean, organize, and prepare data for analysis
 - Build reports and dashboards for clear business communication
 - Use SQL and Excel to explore and summarize data
