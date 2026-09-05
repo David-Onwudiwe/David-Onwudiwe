@@ -14,3 +14,94 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm David Uchenna Onwudiwe 👋
+
+### **Data Analyst |** Turning raw data into decisions
+
+I am a detail-oriented **Data Analyst** with a strong foundational background in Electrical and Electronics Engineering. I specialize in transforming raw, complex datasets into clear, actionable business insights that drive strategic decision-making. Currently, I am expanding my technical capabilities by deepening my knowledge of Python for advanced data manipulation, automation, and analytics.
+
+### 🔭 What I Do
+
+* **Data Analysis & Visualization:** Uncovering hidden patterns, trends, and business metrics through clean, intuitive dashboards.
+
+* **Business Intelligence:** Designing and maintaining functional BI solutions to monitor key performance indicators (KPIs).
+
+* **Database Querying & Management:** Writing efficient, structured SQL queries to extract, clean, and aggregate relational data.
+
+### 💡 Areas of Expertise
+
+* **Data Analysis** & Descriptive Statistics
+
+* **Data Visualization** & Dashboarding
+
+* **Business Intelligence (BI)** Strategy
+
+* **Relational Database Querying** (SQL)
+
+* **Advanced Spreadsheet Modelling** (Excel)
+
+### 🛠️ Technical Skills
+
+| Category | Tools & Technologies | 
+ | ----- | ----- | 
+| **Programming** | Python | 
+| **Data Analysis & Modelling** | Excel | 
+| **Databases** | MySQL | 
+| **Visualization & BI** | Power BI | 
+| **Version Control & Collaboration** | Git, Github  | 
+
+### 📂 Featured Projects
+
+#### 📌 TNMT Data Analysis Report
+
+* **Overview:** \[Brief 1-line summary of the dataset and core project goal\]
+
+* **Problem Solved:** \[Describe the core business gap, question, or inefficiency addressed\]
+
+* **Approach & Tools:** `Power BI`
+
+* **Key Outcome / Insight:** \[Highlight quantifiable metric, strategic decision, or value delivered\]
+
+* 🔗 **Repository:** [View Project Repository](https://github.com/TNMT-Data-Analysis)
+
+#### 📌 Maji Ndogo Water Source Database
+
+* **Overview:** \[Brief 1-line summary of the dataset and core project goal\]
+
+* **Problem Solved:** \[Describe the core water infrastructure issue or data challenge analyzed\]
+
+* **Approach & Tools:** `MySQL` 
+
+* **Key Outcome / Insight:** \[Highlight quantifiable metric, strategic decision, or value delivered\]
+
+* 🔗 **Repository:** [View Project Repository](https://github.com/Maji-Ndogo-WaterSource-Database)
+
+  #### 
+
+### 🌱 Currently Learning & Target Roles
+
+* **Currently Expanding:** Advanced **Python** for exploratory data analysis, data wrangling, and pipeline automation.
+
+* 🎯 **Target Roles:** Data Analyst | Business Intelligence Analyst | Data Scientist | Data Engineer
+
+### 🎓 Education & Certifications
+
+* **B.Sc. in Electrical and Electronics Engineering**
+
+* **Data Analytics Training** — *The Techie Academy*
+
+### 🏆 Achievements & Leadership
+
+* 
+
+### 📫 Let's Connect
+
+Feel free to reach out if you'd like to discuss data projects, collaboration opportunities, or data analyst roles!
+
+* 💼 **LinkedIn:** [linkedin.com/in/david-onwudiwe-092271191](https://linkedin.com/in/david-onwudiwe-092271191)
+
+* 📁 **GitHub Portfolio:** [github.com/David-Onwudiwe](https://github.com/David-Onwudiwe)
+
+* ✉️ **Email:** [daveyuc@gmail.com](mailto:daveyuc@gmail.com)
+
+*I'm always open to learning, collaborating, and working on meaningful data-driven projects.*
