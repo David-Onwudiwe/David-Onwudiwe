@@ -22,11 +22,12 @@ I am a Data Analyst with an interest in transforming data into clear, practical 
 
 ### 🔭 What I Do
 
-* **Data Analysis & Visualization:** Uncovering hidden patterns, trends, and business metrics through clean, intuitive dashboards.
-
-* **Business Intelligence:** Designing and maintaining functional BI solutions to monitor key performance indicators (KPIs).
-
-* **Database Querying & Management:** Writing efficient, structured SQL queries to extract, clean, and aggregate relational data.
+* - Analyze data to identify trends, patterns, and useful insights
+- Clean, organize, and prepare data for analysis
+- Build reports and dashboards for clear business communication
+- Use SQL and Excel to explore and summarize data
+- Develop visualizations that make information easier to understand
+- Translate business questions into structured analytical solutions
 
 ### 💡 Areas of Expertise
 
